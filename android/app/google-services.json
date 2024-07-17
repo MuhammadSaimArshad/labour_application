@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252627106667",
+    "project_id": "landapp-f34e5",
+    "storage_bucket": "landapp-f34e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252627106667:android:43352e68495c66a012ea2e",
+        "android_client_info": {
+          "package_name": "com.example.labour_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC95DV5yc6CsCsQhsaKLpLAiSTaIcDgVgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252627106667:android:5c989eadcb4ee19312ea2e",
+        "android_client_info": {
+          "package_name": "com.example.landapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC95DV5yc6CsCsQhsaKLpLAiSTaIcDgVgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
